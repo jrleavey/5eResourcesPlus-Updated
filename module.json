@@ -1,5 +1,7 @@
 {
-  "title": "5e-Sheet Resources Plus",
+{
+  "id": "5e-resources-plus-updated",
+  "title": "5e-Sheet Resources Plus (Updated)",
   "description": "A module that allows you to add more resources to character sheets",
   "url": "https://github.com/jrleavey/5eResourcesPlus-Updated/tree/master",
   "version": "1.10.1",
